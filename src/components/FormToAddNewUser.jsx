@@ -17,7 +17,7 @@ const FormToAddNewUser = ({info1,info2,info3,info4,info5,info6,info7}) => {
   const [prop5, setProp5] = useState("");
   const [prop6, setProp6] = useState("");
   const [prop7, setProp7] = useState("");
-  const [photo, setPhoto] = useState(null);
+  
   
   // Convert the image to a base64 string: This is necessary to store the image data in the array.
   // const handlePhotoChange = (event) => {
@@ -57,7 +57,7 @@ const FormToAddNewUser = ({info1,info2,info3,info4,info5,info6,info7}) => {
     setProp5("")
     setProp6("")
     setProp7("")
-    setPhoto(null);
+    
     console.log(users);
     
     

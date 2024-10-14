@@ -4,7 +4,7 @@ import {useStateContext} from "../contexts/ContextProvider"
 import { MdDelete } from "react-icons/md";
 import { TooltipComponent } from '@syncfusion/ej2-react-popups';
 import { ordersData } from '../data/dummy';
-import  avatar  from '../data/avatar.jpg';
+
 // ⁡⁢⁣⁢for Orders⁡
 // {info1,info2,info3,info4,info5,info6}   
 const FormToAddNewUsersEmployees = ({info1,info2,info3,info4,info5,info6}) => {
@@ -17,19 +17,19 @@ const FormToAddNewUsersEmployees = ({info1,info2,info3,info4,info5,info6}) => {
   const [prop5, setProp5] = useState("");
   const [prop6, setProp6] = useState("");
   
-  const [photo, setPhoto] = useState(null);
+  // const [photo, setPhoto] = useState(null);
   
   // Convert the image to a base64 string: This is necessary to store the image data in the array.
   const handlePhotoChange = (event) => {
-    const file = event.target.files[0];
-    const reader = new FileReader();
+    // const file = event.target.files[0];
+    // const reader = new FileReader();
 
-    reader.onloadend = () => {
-      setPhoto(reader.result);   
+    // reader.onloadend = () => {
+    //   setPhoto(reader.result);   
 
-    };
+    // };
 
-    reader.readAsDataURL(file);
+    // reader.readAsDataURL(file);
   };
   const closeOpenForm = () => {
     setShowFormToAddUser(!showFormToAddUser)
@@ -46,7 +46,7 @@ const FormToAddNewUsersEmployees = ({info1,info2,info3,info4,info5,info6}) => {
         Country:prop5,
         ReportsTo:prop6,
       
-      EmployeeImage:photo,
+      
     }
     setUsers(users.unshift(newUser));
 
@@ -57,7 +57,7 @@ const FormToAddNewUsersEmployees = ({info1,info2,info3,info4,info5,info6}) => {
     setProp5("")
     setProp6("")
     
-    setPhoto(null);
+    
     console.log(users);
     
     

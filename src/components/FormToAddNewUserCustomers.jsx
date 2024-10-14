@@ -4,7 +4,7 @@ import {useStateContext} from "../contexts/ContextProvider"
 import { MdDelete } from "react-icons/md";
 import { TooltipComponent } from '@syncfusion/ej2-react-popups';
 import { customersData } from '../data/dummy';
-import  avatar  from '../data/avatar.jpg';
+
 // ⁡⁢⁣⁢for Orders⁡
 // {info1,info2,info3,info4,info5,info6}   
 const FormToAddNewUserCustomers = ({info1,info2,info3,info4,info5,info6,info7,info8,info9}) => {
@@ -22,7 +22,7 @@ const FormToAddNewUserCustomers = ({info1,info2,info3,info4,info5,info6,info7,in
   const [prop7, setProp7] = useState("");
   const [prop8, setProp8] = useState("");
   const [prop9, setProp9] = useState("");
-  const [photo, setPhoto] = useState(null);
+  
   
   // Convert the image to a base64 string: This is necessary to store the image data in the array.
   // const handlePhotoChange = (event) => {
@@ -47,7 +47,7 @@ const FormToAddNewUserCustomers = ({info1,info2,info3,info4,info5,info6,info7,in
       CustomerID:prop1,
       CustomerName:prop2,
       CustomerEmail:prop3,
-      CustomerImage:photo,
+      
       ProjectName:prop4,
       Status:prop5,
       StatusBg:prop6,
@@ -63,7 +63,7 @@ const FormToAddNewUserCustomers = ({info1,info2,info3,info4,info5,info6,info7,in
     setProp5("")
     setProp6("")
     setProp7("")
-    setPhot(null);
+    
     
     
   }
