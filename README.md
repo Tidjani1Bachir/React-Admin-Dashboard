@@ -2,14 +2,10 @@
 
 ## A prototype of a React admin panel application designed to help organize your data. 
 
-
-
-
-** ####################################################################################### **
 <div align="center">
   <br />
         <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/Cars-Showcase-Api-2/blob/main/public/ui/Screenshot_2024-10-31_09_04_02.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_46_36.png" alt="UI Showcase">
         </a>
   <br />
 
@@ -86,7 +82,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 <br />
 
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/Cars-Showcase-Api-2/blob/main/public/ui/Screenshot_2024-10-31_09_04_20.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_47_05.png" alt="UI Showcase">
 </a>
 
 <br />
@@ -94,7 +90,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 <br />
 <br />
 <a href="#" target="_blank">
-      <img src="https://github.com/Tidjani1Bachir/Cars-Showcase-Api-2/blob/main/public/ui/Screenshot_2024-10-31_09_04_36.png" alt="UI Showcase">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_47_40.png" alt="UI Showcase">
 </a>
 
 <br />
@@ -102,6 +98,163 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 <br />
 <br />
 
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_47_53.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_48_12.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_12_47_05.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_03_39.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_03_54.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_04_10.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_04_29.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_04_48.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_05_03.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_05_38.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_05_58.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_10.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_21.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_31.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_42.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<a href="#" target="_blank">
+      <img src="https://github.com/Tidjani1Bachir/React-Admin-Dashboard/blob/main/public/ui/Screenshot_2024-10-31_13_06_58.png" alt="UI Showcase">
+</a>
+
+<br />
+<br />
+<br />
+<br />
 
 
 
